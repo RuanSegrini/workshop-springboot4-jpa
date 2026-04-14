@@ -97,6 +97,4 @@ public class User implements Serializable {
         return Objects.hashCode(id);
     }
 
-
-
 }
